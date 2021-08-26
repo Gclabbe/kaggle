@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+30_days_ML/test.csv
+30_days_ML/train.csv
+30_days_ML/train_folds.csv
